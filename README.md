@@ -20,5 +20,7 @@ A simple example of storybook integration with react native
 # Author 
 
 Anoop Singh (codesingh)
+
 Email: anoop100singh@gmail.com
+
 Stack Overflow: codesingh(username)
